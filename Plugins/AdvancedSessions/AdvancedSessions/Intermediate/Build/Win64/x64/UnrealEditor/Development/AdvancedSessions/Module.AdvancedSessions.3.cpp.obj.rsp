@@ -1,11 +1,11 @@
-"C:\Users\ssylw\Documents\GitHub\UE_Online2\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp"
-/FI"C:\Users\ssylw\Documents\GitHub\UE_Online2\Intermediate\Build\Win64\x64\UE_Online2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\ssylw\Documents\GitHub\UE_Online2\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
-/Yu"C:\Users\ssylw\Documents\GitHub\UE_Online2\Intermediate\Build\Win64\x64\UE_Online2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\ssylw\Documents\GitHub\UE_Online2\Intermediate\Build\Win64\x64\UE_Online2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\ssylw\Documents\GitHub\UE_Online2\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp.obj"
-/sourceDependencies "C:\Users\ssylw\Documents\GitHub\UE_Online2\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp.dep.json"
-@"C:\Users\ssylw\Documents\GitHub\UE_Online2\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\AdvancedSessions.Shared.rsp"
+"C:\Users\szymo\Documents\Unreal Projects\UE_Online2\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp"
+/FI"C:\Users\szymo\Documents\Unreal Projects\UE_Online2\Intermediate\Build\Win64\x64\UE_Online2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\szymo\Documents\Unreal Projects\UE_Online2\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
+/Yu"C:\Users\szymo\Documents\Unreal Projects\UE_Online2\Intermediate\Build\Win64\x64\UE_Online2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\szymo\Documents\Unreal Projects\UE_Online2\Intermediate\Build\Win64\x64\UE_Online2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\szymo\Documents\Unreal Projects\UE_Online2\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp.obj"
+/sourceDependencies "C:\Users\szymo\Documents\Unreal Projects\UE_Online2\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp.dep.json"
+@"C:\Users\szymo\Documents\Unreal Projects\UE_Online2\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\AdvancedSessions.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
